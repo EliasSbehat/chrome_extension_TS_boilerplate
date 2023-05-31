@@ -1,4 +1,4 @@
-# Chrome Extension TypeScript Starter
+# Chrome Extension -TypeScript Starter
 
 Chrome Extension, TypeScript and Visual Studio Code
 
